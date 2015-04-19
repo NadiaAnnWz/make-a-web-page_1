@@ -1,0 +1,47 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	padding: 15px 10px;
+	font-family: Arial;
+	max-width: 1500px;
+	margin: 0 auto;
+	font-size: 12px;
+
+}
+p {
+	margin: 1em;
+}
+
+h1 {
+	text-align: center;
+	color: #3B0E65;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	font-size: 15px;
+	line-height: 30px;
+}
+.stage {
+	background-color: #684986;
+	border-radius: 15px;
+	color: #F1EAF5;
+	padding: 10px;
+	margin: 10px auto;
+}
+.concept-title {
+	background-color: #A290AA;
+	border-radius: 10px;
+	color: #3B0E65;
+	padding: 5px;
+	margin: 5px auto;
+	font-weight: bold;
+}
